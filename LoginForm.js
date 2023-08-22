@@ -60,7 +60,7 @@ const LoginForm = () => {
 
           axios
             .post(
-              `https://tast//Hotel/LoginUser.php/`,
+              `https://tast//H/LoginUser.php/`,
               formData,
               {
                 headers: {
